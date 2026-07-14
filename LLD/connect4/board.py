@@ -88,26 +88,26 @@ class Board:
         return -1,ValueError("No legal move available in column.")
     
 
-board1 = Board()
+# board1 = Board()
 
-curr, result, err = board1.setMove(28, 2)
-print('board',curr, '\n', 'result', result, '\n', err)
-curr, result, err = board1.setMove(52, 1)
-print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(28, 2)
+# print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(52, 1)
+# print('board',curr, '\n', 'result', result, '\n', err)
 
-curr, result, err = board1.setMove(28, 3)
-print('board',curr, '\n','result', result, '\n', err)
-curr, result, err = board1.setMove(52, 0)
-print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(28, 3)
+# print('board',curr, '\n','result', result, '\n', err)
+# curr, result, err = board1.setMove(52, 0)
+# print('board',curr, '\n', 'result', result, '\n', err)
 
-curr, result, err = board1.setMove(28, 4)
-print('board',curr, '\n', 'result', result, '\n', err)
-curr, result, err = board1.setMove(52,6)
-print('board',curr, '\n','result',  result, '\n', err)
+# curr, result, err = board1.setMove(28, 4)
+# print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(52,6)
+# print('board',curr, '\n','result',  result, '\n', err)
 
-curr, result, err = board1.setMove(28, 5)
-print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(28, 5)
+# print('board',curr, '\n', 'result', result, '\n', err)
 
 
-curr, result, err = board1.setMove(28, 5)
-print('board',curr, '\n', 'result', result, '\n', err)
+# curr, result, err = board1.setMove(28, 5)
+# print('board',curr, '\n', 'result', result, '\n', err)

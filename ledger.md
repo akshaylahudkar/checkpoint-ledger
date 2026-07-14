@@ -6,18 +6,21 @@
 
 - [x] Arrays: Group Anagrams
 - [x] Two Pointers: 3Sum
-- [ ] Sliding Window: Longest Substring Without Repeating
-- [ ] Stack: Min Stack
+- [x] Sliding Window: Longest Substring Without Repeating
+- [x] Stack: Min Stack
 - [ ] Binary Search: Search Rotated Sorted Array
 - [ ] Linked List: Reorder List
 - [ ] Trees: Binary Tree Level Order Traversal
 - [ ] Tries: Implement Trie
 - [ ] Heap: Kth Largest Element
-- [ ] Backtracking: Subsets
-- [ ] Graphs: Number of Islands
+- [ ] Backtracking: SubsetsL
 - [ ] 1-D DP: House Robber
 - [ ] 2-D DP: Unique Paths
 - [ ] Intervals: Merge Intervals
+     Weak Topics
+Sliding Window
+Stack
+Binary Search
 
 > After the diagnostic, paste only the NeetCode problems from your weak
 > categories, in roadmap order. This is the last planning act permitted.
@@ -115,8 +118,10 @@
 - [ ] MC 16a: Algorithmic System Design II
 - [ ] MC 16b: Algorithmic System Design II
 
-## QUEUE — LLD
-
+## QUEUE — LLD (HelloInterview sequence)
+- [ ] Connect 4
+- [ ] (next HI problem)
+- [ ] (next HI problem)
 - [ ] Parking Lot
 - [ ] Vending Machine
 - [ ] Rate Limiter
@@ -136,3 +141,7 @@
 
 13/07/2026 | TRACK: Arrays: Group Anagrams in 25min with both approaches, hash the key counter with value
 13/07/2026 | TRACK: Two Pointers: 3Sum in 25min with optimized approach, handle p,n,z
+14/07/2026 | TRACK: Sliding Window: Longest Substring Without Repeating- Weak, need intuition
+14/07/2026 | TRACK: Stack: Min Stack, Implemented using HM, keeping track of Min at each index
+14/07/2026 | TRACK: Binary Search: Search Rotated Sorted Array, Weak need intuition
+14/07/2026 | TRACK: LLD Connect 4 Design, first Verbs and then Class
