@@ -8,10 +8,10 @@
 - [x] Two Pointers: 3Sum
 - [x] Sliding Window: Longest Substring Without Repeating
 - [x] Stack: Min Stack
-- [ ] Binary Search: Search Rotated Sorted Array
-- [ ] Linked List: Reorder List
-- [ ] Trees: Binary Tree Level Order Traversal
-- [ ] Tries: Implement Trie
+- [x] Binary Search: Search Rotated Sorted Array
+- [x] Linked List: Reorder List
+- [x] Trees: Binary Tree Level Order Traversal
+- [x] Tries: Implement Trie
 - [ ] Heap: Kth Largest Element
 - [ ] Backtracking: SubsetsL
 - [ ] 1-D DP: House Robber
@@ -36,7 +36,7 @@ Binary Search
 ### Databases
 
 - [x] SDB 5: Relational Databases
-- [ ] SDB 6: Database Isolation Levels
+- [x] SDB 6: Database Isolation Levels
 - [ ] SDB 7: Scaling Databases
 - [ ] SDB 8: Sharding and Partitioning
 - [ ] SDB 9: Non-Relational Databases
@@ -145,3 +145,8 @@ Binary Search
 14/07/2026 | TRACK: Stack: Min Stack, Implemented using HM, keeping track of Min at each index
 14/07/2026 | TRACK: Binary Search: Search Rotated Sorted Array, Weak need intuition
 14/07/2026 | TRACK: LLD Connect 4 Design, first Verbs and then Class
+15/07/2026 | TRACK: Linked List : Reorder List: Find mid, reverse second half, couldn't implement reverse LinkedList
+15/07/2026 | TRACK: Trees: Binary Tree Level Order Traversal: Implemented
+15/07/2026 | TRACK: Tries: Implement Trie: Done using HM
+15/07/2026 | TRACK: SDB Relational DB setup, connection pool, Schema Design
+15/07/2026 | TRACK: SDB Relational DB Isolation Levels
