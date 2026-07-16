@@ -150,3 +150,5 @@ Binary Search
 15/07/2026 | TRACK: Tries: Implement Trie: Done using HM
 15/07/2026 | TRACK: SDB Relational DB setup, connection pool, Schema Design
 15/07/2026 | TRACK: SDB Relational DB Isolation Levels
+16/07/2026 | TRACK: Heap: Kth Largest Element, couldn't solve need practice
+16/07/2026 | TRACK: Backtracking: Subsets- couldnt solve it need lot of practice
