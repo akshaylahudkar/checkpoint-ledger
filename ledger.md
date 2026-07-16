@@ -12,8 +12,8 @@
 - [x] Linked List: Reorder List
 - [x] Trees: Binary Tree Level Order Traversal
 - [x] Tries: Implement Trie
-- [ ] Heap: Kth Largest Element
-- [ ] Backtracking: SubsetsL
+- [x] Heap: Kth Largest Element
+- [x] Backtracking: SubsetsL
 - [ ] 1-D DP: House Robber
 - [ ] 2-D DP: Unique Paths
 - [ ] Intervals: Merge Intervals
