@@ -299,3 +299,6 @@ RULES (unchanged):
 17/07/2026 | TRACK: 1-D DP: House Robber - Solved it but with recursion and messy code
 17/07/2026 | TRACK: 2-D DP: Unique Paths -  Solved it using math combinations, couldn't do it with DP
 17/07/2026 | TRACK: Intervals: Merge Intervals - Coudn't figure out a approach for this
+21/07/2026 | TRACK: Graph: Number of Islands Using Iteration and DFS on neighbours
+21/07/2026 | TRACK: SDB: Scaling DB, sharding Partitioning
+
