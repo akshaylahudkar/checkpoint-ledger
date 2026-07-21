@@ -14,13 +14,157 @@
 - [x] Tries: Implement Trie
 - [x] Heap: Kth Largest Element
 - [x] Backtracking: SubsetsL
-- [ ] 1-D DP: House Robber
-- [ ] 2-D DP: Unique Paths
-- [ ] Intervals: Merge Intervals
+- [x] 1-D DP: House Robber
+- [x] 2-D DP: Unique Paths
+- [x] Intervals: Merge Intervals
      Weak Topics
 Sliding Window
 Stack
 Binary Search
+Linked List
+Trees
+Heap
+Backtracking
+1-D DP
+2-D DP
+Intervals
+
+## QUEUE — DSA (post-diagnostic, roadmap order — FROZEN 21/07/2026)
+
+### 0. Unfinished diagnostic
+- [x] Graphs: Number of Islands   <-- run this first, label the lane
+
+### 1. Sliding Window  (WEAK — full treatment)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Best Time to Buy and Sell Stock
+- [ ] Longest Substring Without Repeating Characters  (re-solve)
+- [ ] Longest Repeating Character Replacement
+- [ ] Permutation in String
+- [ ] Minimum Window Substring
+- [ ] Sliding Window Maximum
+
+### 2. Stack  (COLD — refresh, move fast)
+- [ ] Valid Parentheses
+- [ ] Evaluate Reverse Polish Notation
+- [ ] Generate Parentheses
+- [ ] Daily Temperatures
+- [ ] Car Fleet
+
+### 3. Binary Search  (WEAK — full treatment)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Binary Search
+- [ ] Search a 2D Matrix
+- [ ] Koko Eating Bananas
+- [ ] Find Minimum in Rotated Sorted Array
+- [ ] Search in Rotated Sorted Array  (re-solve)
+- [ ] Time Based Key-Value Store
+
+### 4. Linked List  (WEAK — full treatment)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Reverse Linked List          <-- the one you couldn't do; own this cold
+- [ ] Merge Two Sorted Lists
+- [ ] Reorder List  (re-solve)
+- [ ] Remove Nth Node From End of List
+- [ ] Copy List with Random Pointer
+- [ ] Add Two Numbers
+- [ ] Linked List Cycle
+- [ ] Find the Duplicate Number
+- [ ] LRU Cache
+- [ ] Merge K Sorted Lists
+
+### 5. Trees  (COLD — refresh, then depth)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Invert Binary Tree
+- [ ] Maximum Depth of Binary Tree
+- [ ] Diameter of Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] Same Tree
+- [ ] Subtree of Another Tree
+- [ ] Lowest Common Ancestor of a BST
+- [ ] Binary Tree Right Side View
+- [ ] Count Good Nodes in Binary Tree
+- [ ] Validate Binary Search Tree
+- [ ] Kth Smallest Element in a BST
+- [ ] Construct Binary Tree from Preorder and Inorder Traversal
+
+### 6. Heap / Priority Queue  (WEAK — full treatment)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Kth Largest Element in a Stream
+- [ ] Last Stone Weight
+- [ ] K Closest Points to Origin
+- [ ] Kth Largest Element in an Array  (re-solve)
+- [ ] Task Scheduler
+- [ ] Design Twitter
+- [ ] Find Median from Data Stream
+
+### 7. Backtracking  (WEAK — full treatment; draw the decision tree FIRST)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Subsets  (re-solve)
+- [ ] Combination Sum
+- [ ] Permutations
+- [ ] Subsets II
+- [ ] Combination Sum II
+- [ ] Word Search
+- [ ] Palindrome Partitioning
+- [ ] Letter Combinations of a Phone Number
+
+### 8. Graphs  (UNKNOWN — full treatment; BFS/DFS templates cold)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Clone Graph
+- [ ] Max Area of Island
+- [ ] Pacific Atlantic Water Flow
+- [ ] Surrounded Regions
+- [ ] Rotting Oranges
+- [ ] Course Schedule
+- [ ] Course Schedule II
+- [ ] Redundant Connection
+- [ ] Number of Connected Components in an Undirected Graph
+- [ ] Graph Valid Tree
+
+### 9. 1-D DP  (WEAK — ALWAYS brute-force recursion -> memoize -> tabulate)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Climbing Stairs
+- [ ] Min Cost Climbing Stairs
+- [ ] House Robber  (re-solve, clean this time)
+- [ ] House Robber II
+- [ ] Longest Palindromic Substring
+- [ ] Palindromic Substrings
+- [ ] Decode Ways
+- [ ] Coin Change
+- [ ] Maximum Product Subarray
+- [ ] Word Break
+- [ ] Longest Increasing Subsequence
+- [ ] Partition Equal Subset Sum
+
+### 10. 2-D DP  (WEAK — same discipline)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Unique Paths  (re-solve WITH DP, not combinatorics)
+- [ ] Longest Common Subsequence
+- [ ] Best Time to Buy and Sell Stock With Cooldown
+- [ ] Coin Change II
+- [ ] Target Sum
+- [ ] Longest Increasing Path in a Matrix
+- [ ] Edit Distance
+
+### 11. Intervals  (WEAK — full treatment)
+- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [ ] Insert Interval
+- [ ] Merge Intervals  (re-solve)
+- [ ] Non-Overlapping Intervals
+- [ ] Meeting Rooms
+- [ ] Meeting Rooms II
+
+---
+RULES (unchanged):
+- Top unchecked box. Always. No skipping to interesting ones.
+- 25 min honest attempt -> watch solution -> rebuild from memory -> log the pattern -> next.
+- Re-solve any "weak" problem 3 days later, then 1 week later.
+- Fall off? Resume at the next unchecked box. Never restart. Never re-plan.
+- Timeboxing the learn session, inside your 75-minute Block 1:
+
+- 35 min — watch the topic explainer. Full attention, no notes, pause on diagrams if you need to. When it's done, close the tab.
+- 15 min — write the pattern file from memory. Template skeleton in code, plus two or three lines on when to reach for it and what the common trap is. Hard stop at 15 minutes; if it's ugly, it's ugly. Then reopen the video and fix what you got wrong — that gap is the actual learning.
+- 25 min — one guided problem with your pattern file open beside you. Looking at your own template is expected. This is practice, not a test.
 
 > After the diagnostic, paste only the NeetCode problems from your weak
 > categories, in roadmap order. This is the last planning act permitted.
@@ -37,9 +181,9 @@ Binary Search
 
 - [x] SDB 5: Relational Databases
 - [x] SDB 6: Database Isolation Levels
-- [ ] SDB 7: Scaling Databases
-- [ ] SDB 8: Sharding and Partitioning
-- [ ] SDB 9: Non-Relational Databases
+- [x] SDB 7: Scaling Databases
+- [x] SDB 8: Sharding and Partitioning
+- [x] SDB 9: Non-Relational Databases
 - [ ] SDB 10: Picking the right database
 
 ### Caching
@@ -119,7 +263,7 @@ Binary Search
 - [ ] MC 16b: Algorithmic System Design II
 
 ## QUEUE — LLD (HelloInterview sequence)
-- [ ] Connect 4
+- [x] Connect 4
 - [ ] (next HI problem)
 - [ ] (next HI problem)
 - [ ] Parking Lot
@@ -152,3 +296,6 @@ Binary Search
 15/07/2026 | TRACK: SDB Relational DB Isolation Levels
 16/07/2026 | TRACK: Heap: Kth Largest Element, couldn't solve need practice
 16/07/2026 | TRACK: Backtracking: Subsets- couldnt solve it need lot of practice
+17/07/2026 | TRACK: 1-D DP: House Robber - Solved it but with recursion and messy code
+17/07/2026 | TRACK: 2-D DP: Unique Paths -  Solved it using math combinations, couldn't do it with DP
+17/07/2026 | TRACK: Intervals: Merge Intervals - Coudn't figure out a approach for this
