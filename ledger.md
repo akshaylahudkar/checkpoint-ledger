@@ -35,9 +35,9 @@ Intervals
 - [x] Graphs: Number of Islands   <-- run this first, label the lane
 
 ### 1. Sliding Window  (WEAK — full treatment)
-- [ ] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
-- [ ] Best Time to Buy and Sell Stock
-- [ ] Longest Substring Without Repeating Characters  (re-solve)
+- [x] LEARN: watch explainer → write notes/patterns/sliding-window.md from memory
+- [x] Best Time to Buy and Sell Stock
+- [x] Longest Substring Without Repeating Characters  (re-solve)
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
@@ -264,8 +264,6 @@ RULES (unchanged):
 
 ## QUEUE — LLD (HelloInterview sequence)
 - [x] Connect 4
-- [ ] (next HI problem)
-- [ ] (next HI problem)
 - [ ] Parking Lot
 - [ ] Vending Machine
 - [ ] Rate Limiter
@@ -301,4 +299,6 @@ RULES (unchanged):
 17/07/2026 | TRACK: Intervals: Merge Intervals - Coudn't figure out a approach for this
 21/07/2026 | TRACK: Graph: Number of Islands Using Iteration and DFS on neighbours
 21/07/2026 | TRACK: SDB: Scaling DB, sharding Partitioning
+22/07/2026 | TRACK: Sliding Window- left and right controls the flow and a bit of Kadane
+22/07/2026 | TRACK: Read through HI Connect4 LLD 
 
